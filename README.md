@@ -1,4 +1,4 @@
-# travel_diaries
+# Travel Diaries
 Simple travel theme portfolio site
 
 This project uses Bootstrap 3 and jQuery. One of my first portfolio sites created after enrolling in Google developer challenge.
